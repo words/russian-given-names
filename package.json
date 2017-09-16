@@ -1,9 +1,9 @@
 {
-  "name": "russian-names",
+  "name": "russian-given-names",
   "version": "1.0.0",
-  "description": "Russian names",
+  "description": "Russian given masculine and feminine names",
   "main": "index.json",
-  "repository": "github:words/russian-names",
+  "repository": "github:words/russian-given-names",
   "scripts": {
     "build": "node build.js"
   },
@@ -15,9 +15,9 @@
   "author": "dfcreative",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/words/russian-names/issues"
+    "url": "https://github.com/words/russian-given-names/issues"
   },
-  "homepage": "https://github.com/words/russian-names#readme",
+  "homepage": "https://github.com/words/russian-given-names#readme",
   "devDependencies": {
     "lodash": "^4.17.4"
   }

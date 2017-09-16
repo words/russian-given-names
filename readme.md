@@ -1,4 +1,4 @@
-# :woman: :man: russian-names
+# :woman: :man: russian-given-names
 
 Complete list of russian masculine and feminine given names, based on [wiki source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%B5%D0%BD%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9).
 
@@ -7,21 +7,14 @@ Complete list of russian masculine and feminine given names, based on [wiki sour
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install russian-names --save
+npm install russian-given-names --save
 ```
 
 ```js
-const menNames = require('russian-names/man')
-const womenNames = require('russian-names/woman')
+const menNames = require('russian-given-names/man')
+const womenNames = require('russian-given-names/woman')
 ```
 
-
-## Tests
-
-```sh
-npm install
-npm test
-```
 
 ## License
 
