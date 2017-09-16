@@ -1,0 +1,24 @@
+{
+  "name": "russian-names",
+  "version": "1.0.0",
+  "description": "Russian names",
+  "main": "index.json",
+  "repository": "github:words/russian-names",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [
+    "words",
+    "language",
+    "Russian"
+  ],
+  "author": "dfcreative",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/words/russian-names/issues"
+  },
+  "homepage": "https://github.com/words/russian-names#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
+}
